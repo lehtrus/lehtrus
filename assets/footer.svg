@@ -1,20 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="Feito com café, código e design">
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f0c29"/><stop offset=".55" stop-color="#302b63"/><stop offset="1" stop-color="#1a1b3a"/></linearGradient>
-  <linearGradient id="wv" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7AA2F7"/><stop offset="1" stop-color="#F7768E"/></linearGradient>
-  <clipPath id="r"><rect width="1200" height="120" rx="24"/></clipPath>
+  <pattern id="hz" width="28" height="28" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)"><rect width="14" height="28" fill="#2F6BFF"/></pattern>
   <style>
-    .w1{animation:slide 16s linear infinite} .w2{animation:slide 26s linear infinite reverse}
+    .tapeg{animation:slide 12s linear infinite}
     @keyframes slide{from{transform:translateX(0)}to{transform:translateX(-600px)}}
-    .t{font:600 17px 'Segoe UI','Helvetica Neue',Arial,sans-serif;letter-spacing:4px;fill:#c0caf5}
-    .s{font:500 12px 'Fira Code',Consolas,'Courier New',monospace;fill:#7AA2F7;letter-spacing:2px}
+    .t{font:400 34px Impact,Haettenschweiler,'Arial Narrow Bold','Arial Black',sans-serif;letter-spacing:7px;fill:#fff}
+    .s{font:500 12px 'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace;fill:#6FA0FF;letter-spacing:2px}
+    .tp{font:400 15px Impact,Haettenschweiler,'Arial Narrow Bold','Arial Black',sans-serif;letter-spacing:4px;fill:#0a0a0a}
   </style>
 </defs>
-<g clip-path="url(#r)">
-  <rect width="1200" height="120" fill="url(#bg)"/>
-  <g class="w1"><path d="M0,78.0 L20,79.5 L40,80.8 L60,82.1 L80,83.2 L100,84.1 L120,84.7 L140,85.0 L160,85.0 L180,84.7 L200,84.1 L220,83.2 L240,82.1 L260,80.8 L280,79.5 L300,78.0 L320,76.5 L340,75.2 L360,73.9 L380,72.8 L400,71.9 L420,71.3 L440,71.0 L460,71.0 L480,71.3 L500,71.9 L520,72.8 L540,73.9 L560,75.2 L580,76.5 L600,78.0 L620,79.5 L640,80.8 L660,82.1 L680,83.2 L700,84.1 L720,84.7 L740,85.0 L760,85.0 L780,84.7 L800,84.1 L820,83.2 L840,82.1 L860,80.8 L880,79.5 L900,78.0 L920,76.5 L940,75.2 L960,73.9 L980,72.8 L1000,71.9 L1020,71.3 L1040,71.0 L1060,71.0 L1080,71.3 L1100,71.9 L1120,72.8 L1140,73.9 L1160,75.2 L1180,76.5 L1200,78.0 L1220,79.5 L1240,80.8 L1260,82.1 L1280,83.2 L1300,84.1 L1320,84.7 L1340,85.0 L1360,85.0 L1380,84.7 L1400,84.1 L1420,83.2 L1440,82.1 L1460,80.8 L1480,79.5 L1500,78.0 L1520,76.5 L1540,75.2 L1560,73.9 L1580,72.8 L1600,71.9 L1620,71.3 L1640,71.0 L1660,71.0 L1680,71.3 L1700,71.9 L1720,72.8 L1740,73.9 L1760,75.2 L1780,76.5 L1800,78.0 L1820,79.5 L1840,80.8 L1860,82.1 L1880,83.2 L1900,84.1 L1920,84.7 L1940,85.0 L1960,85.0 L1980,84.7 L2000,84.1 L2020,83.2 L2040,82.1 L2060,80.8 L2080,79.5 L2100,78.0 L2120,76.5 L2140,75.2 L2160,73.9 L2180,72.8 L2200,71.9 L2220,71.3 L2240,71.0 L2260,71.0 L2280,71.3 L2300,71.9 L2320,72.8 L2340,73.9 L2360,75.2 L2380,76.5 L2400,78.0 L2400,120 L0,120 Z" fill="url(#wv)" opacity=".18"/></g>
-  <g class="w2"><path d="M0,95.6 L20,96.0 L40,95.4 L60,93.8 L80,91.6 L100,89.1 L120,86.8 L140,85.0 L160,84.1 L180,84.2 L200,85.3 L220,87.3 L240,89.7 L260,92.1 L280,94.2 L300,95.6 L320,96.0 L340,95.4 L360,93.8 L380,91.6 L400,89.1 L420,86.8 L440,85.0 L460,84.1 L480,84.2 L500,85.3 L520,87.3 L540,89.7 L560,92.1 L580,94.2 L600,95.6 L620,96.0 L640,95.4 L660,93.8 L680,91.6 L700,89.1 L720,86.8 L740,85.0 L760,84.1 L780,84.2 L800,85.3 L820,87.3 L840,89.7 L860,92.1 L880,94.2 L900,95.6 L920,96.0 L940,95.4 L960,93.8 L980,91.6 L1000,89.1 L1020,86.8 L1040,85.0 L1060,84.1 L1080,84.2 L1100,85.3 L1120,87.3 L1140,89.7 L1160,92.1 L1180,94.2 L1200,95.6 L1220,96.0 L1240,95.4 L1260,93.8 L1280,91.6 L1300,89.1 L1320,86.8 L1340,85.0 L1360,84.1 L1380,84.2 L1400,85.3 L1420,87.3 L1440,89.7 L1460,92.1 L1480,94.2 L1500,95.6 L1520,96.0 L1540,95.4 L1560,93.8 L1580,91.6 L1600,89.1 L1620,86.8 L1640,85.0 L1660,84.1 L1680,84.2 L1700,85.3 L1720,87.3 L1740,89.7 L1760,92.1 L1780,94.2 L1800,95.6 L1820,96.0 L1840,95.4 L1860,93.8 L1880,91.6 L1900,89.1 L1920,86.8 L1940,85.0 L1960,84.1 L1980,84.2 L2000,85.3 L2020,87.3 L2040,89.7 L2060,92.1 L2080,94.2 L2100,95.6 L2120,96.0 L2140,95.4 L2160,93.8 L2180,91.6 L2200,89.1 L2220,86.8 L2240,85.0 L2260,84.1 L2280,84.2 L2300,85.3 L2320,87.3 L2340,89.7 L2360,92.1 L2380,94.2 L2400,95.6 L2400,120 L0,120 Z" fill="url(#wv)" opacity=".25"/></g>
-  <text class="t" x="600" y="48" text-anchor="middle">FEITO COM CAFÉ, CÓDIGO E DESIGN</text>
-  <text class="s" x="600" y="72" text-anchor="middle">// obrigada por passar por aqui</text>
-</g>
+<rect width="1200" height="120" fill="#0a0a0a"/>
+<rect width="1200" height="10" fill="url(#hz)"/>
+<text class="t" x="600" y="55" text-anchor="middle">FEITO COM CAFÉ, CÓDIGO E DESIGN</text>
+<text class="s" x="600" y="78" text-anchor="middle">// obrigada por passar por aqui</text>
+<rect y="92" width="1200" height="28" fill="#2F6BFF"/>
+<g class="tapeg"><text class="tp" x="0" y="115" textLength="600" lengthAdjust="spacing" xml:space="preserve">OBRIGADA POR PASSAR POR AQUI  ×  </text><text class="tp" x="600" y="115" textLength="600" lengthAdjust="spacing" xml:space="preserve">OBRIGADA POR PASSAR POR AQUI  ×  </text><text class="tp" x="1200" y="115" textLength="600" lengthAdjust="spacing" xml:space="preserve">OBRIGADA POR PASSAR POR AQUI  ×  </text></g>
+<rect x="1" y="1" width="1198" height="118" fill="none" stroke="#2F6BFF" stroke-width="2"/>
 </svg>
