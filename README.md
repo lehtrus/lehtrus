@@ -22,9 +22,7 @@
 **Jogos & Criatividade:** Protótipos 2D em Unity (C#) e experimentos de arte 3D no Blender.  
 **Infraestrutura & Dados:** PostgreSQL, Docker, CI/CD e dashboards para tomar decisão com número, não com achismo.
 
-<details>
-<summary><b>🎲 Fatos aleatórios sobre mim (clique para abrir)</b></summary>
-<br/>
+**🎲 Fatos aleatórios sobre mim**
 
 - 🎯 Meu superpoder é ser a pessoa que programa e também reclama do espaçamento do botão.
 - ☕ Funciono à base de café e playlist de lo-fi.
@@ -32,7 +30,6 @@
 - 🌱 Estou sempre aprendendo alguma coisa nova (agora: Rust e motion design).
 - 🎮 Se der tempo, estou jogando ou criando um jogo.
 
-</details>
 
 ---
 
@@ -65,20 +62,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Linguagens mais usadas"/>
+<img src="https://img.shields.io/github/followers/SEU-USUARIO?style=for-the-badge&logo=github&color=7AA2F7&labelColor=1a1b26" alt="Seguidores"/>
+<img src="https://img.shields.io/badge/Foco-C%23%20%7C%20TypeScript%20%7C%20Design-7AA2F7?style=for-the-badge&labelColor=1a1b26" alt="Foco"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU-USUARIO&theme=tokyonight" alt="Linguagens"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SEU-USUARIO&theme=tokyonight" alt="Stats"/>
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true" alt="Streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Troféus"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade" width="100%"/>
 
 </div>
 
@@ -86,10 +80,10 @@
 
 ## 🎯 Foco atual
 
-- 🔭 Construindo uma plataforma que junta design e código em um só fluxo
-- 🌱 Estudando arquitetura de microsserviços com .NET e motion design com Rive
-- 🤝 Aberta a colaborar em projetos open source de ferramentas para designers
-- 💬 Me pergunte sobre C#, TypeScript, Figma ou onde tomar o melhor café
+- Construindo uma plataforma que junta design e código em um só fluxo
+- Estudando arquitetura de microsserviços com .NET e motion design com Rive
+- Aberta a colaborar em projetos open source de ferramentas para designers
+- Me pergunte sobre C#, TypeScript, Figma ou onde tomar o melhor café
 
 ---
 
