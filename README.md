@@ -72,7 +72,7 @@ Oi, eu sou a **Leticia**. Trabalho no ponto onde **código** e **design** se enc
 
 <table>
 <tr>
-<td width="50%" align="center"><a href="https://github.com/lehtrus/PixelForge"><img src="./assets/project-pixelforge.svg" width="100%" alt="PixelForge"/></a></td>
+<td width="50%" align="center"><a href="https://lehtrus.github.io/PixelForge/"><img src="./assets/project-pixelforge.svg" width="100%" alt="PixelForge"/></a></td>
 <td width="50%" align="center"><a href="https://github.com/lehtrus/Kadence"><img src="./assets/project-kadence.svg" width="100%" alt="Kadence API"/></a></td>
 </tr>
 <tr>
