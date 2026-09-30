@@ -1,63 +1,33 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&pause=1000&color=7C3AED&center=true&vCenter=true&width=760&lines=Leticia;Developer+%7C+Designer;C%23+%7C+TypeScript+%7C+UX%2FUI" />
+<!-- Banner animado (troque o texto em "text=" e "desc=") -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi,%20I'm%20SEU%20NOME&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&desc=Software%20Developer&descSize=20&descAlign=50&descAlignY=85&textBg=false&theme=tokyonight" width="100%" alt="Banner"/>
+
+**Área 1:** Descreva em uma linha o que você faz nessa área (ex.: integração de modelos de linguagem, automações).  
+**Área 2:** Descreva outra frente de trabalho (ex.: APIs, back-end, interfaces modernas).  
+**Área 3:** Dados, dashboards, ETL, análise... o que fizer sentido para você.  
+**Área 4:** Infraestrutura, bancos de dados, Docker, Linux, gestão de projetos...
+
+<!-- Tecnologias: apague ou adicione ícones. Nome da pasta = nome da tecnologia em devicon.dev -->
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux"/>
 </p>
 
-<h1 align="center">Leticia</h1>
-
-<p align="center">
-  <a href="mailto:lehtrus@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/lehtrus/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.behance.net/lehtrus">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" />
-  </a>
-  <a href="https://crieumsite.com">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=About.me&logoColor=white" />
-  </a>
+<!-- Estatísticas: troque SEU-USUARIO pelo seu usuário do GitHub -->
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU-USUARIO&theme=transparent" alt="Linguagens"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SEU-USUARIO&theme=transparent" alt="Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
+## Contact
 
----
-
-## Sobre
-
-Desenvolvedora que mistura código, visual e estratégia.  
-Crio soluções digitais com foco em experiência, clareza e impacto real.
-
-- C# e arquitetura
-- TypeScript e front-end
-- UX/UI e design gráfico
-- automação e sistemas
-- produtos com cara profissional
-
----
-
-## Projetos
-
-- Lumina Dashboard
-- Studio Flow
-- API Atelier
-- Design System Lab
-
----
-
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lehtrus&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehtrus&layout=compact&theme=tokyonight" />
-</p>
+<!-- Troque os links pelos seus -->
+<a href="mailto:SEU-EMAIL@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail"/></a>
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin"/></a>
+<a href="https://t.me/SEU-USUARIO"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" alt="telegram"/></a>
+<a href="https://SEU-SITE.com"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" alt="portfolio"/></a>
