@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 190" width="480" height="190" role="img" aria-label="Projeto BrandKit Builder">
+<defs>
+  <clipPath id="c"><rect x="1" y="1" width="478" height="188" rx="16"/></clipPath>
+  <radialGradient id="gl" cx="1" cy="0" r="1"><stop offset="0" stop-color="#E0AF68" stop-opacity=".28"/><stop offset="1" stop-color="#E0AF68" stop-opacity="0"/></radialGradient>
+  <linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <style>
+    .ti{font:700 22px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#f0f6fc}
+    .ct{font:500 12px 'Segoe UI',Arial,sans-serif;fill:#8b949e;letter-spacing:1px}
+    .ds{font:400 14px 'Segoe UI',Arial,sans-serif;fill:#b1bac4}
+    .tg{font:600 12px 'Segoe UI',Arial,sans-serif;fill:#e6edf3}
+    .cta{font:600 12px 'Segoe UI',Arial,sans-serif;fill:#E0AF68}
+    .in{font:800 22px 'Segoe UI',Arial,sans-serif;fill:#E0AF68}
+    .sh{animation:sh 7s ease-in-out infinite;animation-delay:3.2s}
+    @keyframes sh{0%{transform:translateX(-260px)}45%,100%{transform:translateX(560px)}}
+  </style>
+</defs>
+<rect x="1" y="1" width="478" height="188" rx="16" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+<g clip-path="url(#c)">
+  <circle cx="480" cy="0" r="230" fill="url(#gl)"/>
+  <rect x="0" y="0" width="480" height="4" fill="#E0AF68"/>
+  <rect class="sh" x="0" y="0" width="240" height="190" fill="url(#sh)" transform="skewX(-18)"/>
+</g>
+<rect x="28" y="26" width="46" height="46" rx="12" fill="#E0AF68" fill-opacity=".14" stroke="#E0AF68" stroke-opacity=".55"/>
+<text class="in" x="51" y="57" text-anchor="middle">B</text>
+<text class="ti" x="90" y="47">BrandKit Builder</text>
+<text class="ct" x="90" y="66">DESIGN TOOL · BRANDING</text>
+<text class="ds" x="28" y="104">Gera um kit de identidade visual completo:</text>
+<text class="ds" x="28" y="124">logo, cores, tipografia e mockups.</text>
+<rect x="28" y="146" width="72" height="26" rx="13" fill="#E0AF68" fill-opacity=".12" stroke="#E0AF68" stroke-opacity=".45"/><text class="tg" x="64" y="163" text-anchor="middle">Next.js</text>
+<rect x="108" y="146" width="45" height="26" rx="13" fill="#E0AF68" fill-opacity=".12" stroke="#E0AF68" stroke-opacity=".45"/><text class="tg" x="131" y="163" text-anchor="middle">SVG</text>
+<rect x="161" y="146" width="58" height="26" rx="13" fill="#E0AF68" fill-opacity=".12" stroke="#E0AF68" stroke-opacity=".45"/><text class="tg" x="190" y="163" text-anchor="middle">Figma</text>
+<text class="cta" x="452" y="163" text-anchor="end">ver projeto →</text>
+</svg>

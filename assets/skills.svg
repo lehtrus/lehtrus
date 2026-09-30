@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="1000" height="340" role="img" aria-label="Nível de habilidades">
+<defs>
+  <linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7AA2F7"/><stop offset="1" stop-color="#BB9AF7"/></linearGradient>
+  <linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F7768E"/><stop offset="1" stop-color="#E0AF68"/></linearGradient>
+  <style>
+    .ttl{font:700 14px 'Segoe UI',Arial,sans-serif;letter-spacing:4px}
+    .lb{font:500 15px 'Segoe UI',Arial,sans-serif;fill:#c9d1d9}
+    .pc{font:500 13px 'Fira Code',Consolas,'Courier New',monospace;fill:#8b949e}
+    .bar{transform-box:fill-box;transform-origin:0 50%;animation:grow 1.4s cubic-bezier(.2,.8,.2,1) both}
+    @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+  </style>
+</defs>
+<rect x="10" y="10" width="480" height="320" rx="18" fill="#161b22" stroke="#30363d"/>
+<text class="ttl" x="38" y="46" fill="#7AA2F7">DESENVOLVIMENTO</text>
+<text class="lb" x="38" y="94">C#</text><text class="pc" x="462" y="94" text-anchor="end">92%</text>
+<rect x="38" y="104" width="424" height="8" rx="4" fill="#21262d"/>
+<rect class="bar" x="38" y="104" width="390" height="8" rx="4" fill="url(#a)" style="animation-delay:0.20s"/>
+<text class="lb" x="38" y="132">.NET / ASP.NET</text><text class="pc" x="462" y="132" text-anchor="end">88%</text>
+<rect x="38" y="142" width="424" height="8" rx="4" fill="#21262d"/>
+<rect class="bar" x="38" y="142" width="373" height="8" rx="4" fill="url(#a)" style="animation-delay:0.35s"/>
+<text class="lb" x="38" y="170">TypeScript</text><text class="pc" x="462" y="170" text-anchor="end">90%</text>
+<rect x="38" y="180" width="424" height="8" rx="4" fill="#21262d"/>
+<rect class="bar" x="38" y="180" width="382" height="8" rx="4" fill="url(#a)" style="animation-delay:0.50s"/>
+<text class="lb" x="38" y="208">React / Next.js</text><text class="pc" x="462" y="208" text-anchor="end">85%</text>
+<rect x="38" y="218" width="424" height="8" rx="4" fill="#21262d"/>
+<rect class="bar" x="38" y="218" width="360" height="8" rx="4" fill="url(#a)" style="animation-delay:0.65s"/>
+<text class="lb" x="38" y="246">PostgreSQL</text><text class="pc" x="462" y="246" text-anchor="end">78%</text>
+<rect x="38" y="256" width="424" height="8" rx="4" fill="#21262d"/>
+<rect class="bar" x="38" y="256" width="331" height="8" rx="4" fill="url(#a)" style="animation-delay:0.80s"/>
+<text class="lb" x="38" y="284">Unity</text><text class="pc" x="462" y="284" text-anchor="end">70%</text>
+<rect x="38" y="294" width="424" height="8" rx="4" fill="#21262d"/>
+<rect class="bar" x="38" y="294" width="297" height="8" rx="4" fill="url(#a)" style="animation-delay:0.95s"/>
+
+<rect x="510" y="10" width="480" height="320" rx="18" fill="#161b22" stroke="#30363d"/>
+<text class="ttl" x="538" y="46" fill="#F7768E">DESIGN &amp; CRIATIVO</text>
+<text class="lb" x="538" y="94">Figma / UI</text><text class="pc" x="962" y="94" text-anchor="end">94%</text>
+<rect x="538" y="104" width="424" height="8" rx="4" fill="#21262d"/>
+<rect class="bar" x="538" y="104" width="399" height="8" rx="4" fill="url(#b)" style="animation-delay:0.20s"/>
+<text class="lb" x="538" y="132">Identidade visual</text><text class="pc" x="962" y="132" text-anchor="end">91%</text>
+<rect x="538" y="142" width="424" height="8" rx="4" fill="#21262d"/>
+<rect class="bar" x="538" y="142" width="386" height="8" rx="4" fill="url(#b)" style="animation-delay:0.35s"/>
+<text class="lb" x="538" y="170">Illustrator</text><text class="pc" x="962" y="170" text-anchor="end">88%</text>
+<rect x="538" y="180" width="424" height="8" rx="4" fill="#21262d"/>
+<rect class="bar" x="538" y="180" width="373" height="8" rx="4" fill="url(#b)" style="animation-delay:0.50s"/>
+<text class="lb" x="538" y="208">Photoshop</text><text class="pc" x="962" y="208" text-anchor="end">82%</text>
+<rect x="538" y="218" width="424" height="8" rx="4" fill="#21262d"/>
+<rect class="bar" x="538" y="218" width="348" height="8" rx="4" fill="url(#b)" style="animation-delay:0.65s"/>
+<text class="lb" x="538" y="246">Motion design</text><text class="pc" x="962" y="246" text-anchor="end">68%</text>
+<rect x="538" y="256" width="424" height="8" rx="4" fill="#21262d"/>
+<rect class="bar" x="538" y="256" width="288" height="8" rx="4" fill="url(#b)" style="animation-delay:0.80s"/>
+<text class="lb" x="538" y="284">Blender</text><text class="pc" x="962" y="284" text-anchor="end">64%</text>
+<rect x="538" y="294" width="424" height="8" rx="4" fill="#21262d"/>
+<rect class="bar" x="538" y="294" width="271" height="8" rx="4" fill="url(#b)" style="animation-delay:0.95s"/>
+
+</svg>
